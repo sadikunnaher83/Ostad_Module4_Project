@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Honda Hornet 2.0",
+        "type": "motorcycle",
+        "price": "289000",
+        "image": "https:\/\/admin.sawaribd.com\/storage\/product_image\/WjepfJCVW9HvJQp4mE4E53E9IFjmcOY0Vr24PzFp.jpg"
+    },
+    {
+        "name": "toyota corolla cross hybrid",
+        "type": "car",
+        "price": "4000000",
+        "image": "https:\/\/toyota.com.bd\/cmsimages\/lcpvfDzVYzVtl9G_TM9aztYKMOM=\/1583\/width-1920%7Cformat-avif\/Corolla_Cross.jpg"
+    },
+    {
+        "name": "yamaha MT-15",
+        "type": "motorcycle",
+        "price": "500000",
+        "image": "https:\/\/cdn.bikedekho.com\/processedimages\/yamaha\/mt-15-2-0\/source\/mt-15-2-06613f8354e5d9.jpg"
+    },
+    {
+        "name": "RX&PLUS",
+        "type": "Remote",
+        "price": "300000",
+        "image": "https:\/\/picsum.photos\/200\/300"
+    }
+]
